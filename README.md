@@ -5,8 +5,8 @@ My name is Dominik and I'm a Web Developer
 -------------
 
 *   🌍  I'm based in Vienna, Austria 🇦🇹
-*   🖥️  See my portfolio at [dominik.sumer.dev](http://www.dominik.sumer.dev/)
-*   🚀  I'm currently working on [snappify](http://www.snappify.io)
+*   🖥️  See my portfolio at [dominik.sumer.dev](https://www.dominik.sumer.dev/)
+*   🚀  I'm currently working on [snappify](https://snappify.com)
 *   🧠  I'm learning How to build a profitable product
 
 <a href="https://www.twitter.com/dominiksumer" target="_blank" rel="noreferrer"><img
